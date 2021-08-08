@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Zhe Li</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Zhe Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building my Blog with a Static Site Generator</title>
+      <link>/posts/2021-0520/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021-0520/</guid>
+      <description>It took me a few days to build this simple site. For my use case, the set up is an overkill. I end up spending most of my time tweaking the stylesheet, which is a pain to handle in static site generators.
+I have intended to build a proper personal site for a while and Jekyll seemed to be the most natural choice. I had little idea about what a static site generator (SSG) is going in.</description>
+    </item>
+    
+  </channel>
+</rss>

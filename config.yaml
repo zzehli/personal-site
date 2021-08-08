@@ -1,0 +1,27 @@
+languageCode: en-us
+title: Zhe Li
+theme: PaperMod
+
+menu:
+    main:
+        - name: Archive
+          url: archives/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
+params:
+    defaultTheme: light
+    homeInfoParams:        
+        Title: About me
+        Content: |
+            I am pursuing a master's degree in Agricultural Economics at University of Illinois. My academic interest lies in environmental economics and sustainable farming 🌽 practices.
+
+            I love coding. Specifically, I am interested in designing and implementing systems. I wrote a toy version of [Git](https://github.com/zzehli/gitlet) that supports branching operations.
+        
+    socialIcons: # optional
+        - name: github
+          url: "https://github.com/zzehli"
+    
+    ShowCodeCopyButtons: true    
